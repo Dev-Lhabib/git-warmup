@@ -7,4 +7,4 @@
 - Master Git and GitHub workflow
 - Improve backend development skills
 - Build production-ready projects
-I prefer Node.js for the backend
+I prefer Node.js for the backend wa laaaaa
